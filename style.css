@@ -1,0 +1,1832 @@
+@ font-face {
+    família de fontes: icomoon;
+    src: url (fonts / icomoon.eot? ic6380);
+    src: url (fonts / icomoon.eot? ic6380 # iefix) formato ('incorporado-opentype'), url (fonts /icomoon.ttf?ic6380) formato ('truetype'), formato url (fonts / icomoon.woff? ic6380) ('woff'), url (fonts / icomoon.svg? ic6380 # icomoon) formato ('svg');
+    peso da fonte: 400;
+    estilo da fonte: normal
+}
+
+[classe *="ícone -"],
+[classe ^=ícone -] {
+    família da fonte: icomoon! importante;
+    fala: nenhuma;
+    estilo da fonte: normal;
+    fonte- peso: 400;
+    variante da fonte: normal;
+    transformação do texto: nenhuma;
+    altura da linha: 1;
+    -webkit-smoothing da fonte: antialias;
+    -moz-osx-smoothing da fonte: escala de cinza
+}
+
+.icon-mv-wa3: antes {
+    content: "\ e932"
+}
+
+. icon-mv-money1: before {
+    content: "\ e931"
+}
+
+. icon-mv-attachment-history: before {
+    content: "\ e930"
+}
+
+. icon-mv-email: antes {
+    content: "\ e92f"
+}
+
+. icon-mv-format-text: antes de {
+    content: "\ e92c"
+}
+
+. icon-mv-menos:antes de {
+    content: "\ e92d"
+}
+
+. icon-mv-plus: antes de {
+    content: "\ e92e"
+}
+
+. icon-mv-new-tab: antes de {
+    content: "\ e925"
+}
+
+. icon-mv-not- visível: antes de {
+    content: "\ e926"
+}
+
+. icon-mv-reply-all: antes de {
+    content: "\ e928"
+}
+
+. icon-mv-reply: before {
+    content: "\ e929"
+}
+
+. icon-mv- forward2: antes de {
+    content: "\ e92a"
+}
+
+. icon-mv-star-solid: antes de {
+    content: "\ e92b"
+}
+
+. icon-mv-info-alt-solid: antes de {
+    content: "\ e924"
+}
+
+. icon-mv-info-alt: antes de {
+    content: "\ e927"
+}
+
+. icon-mv-alarm: antes de {
+    content: "\ e921"
+}
+
+. icon-mv-remote-access: before {
+    content: "\ e922"
+}
+
+.icon-mv-workflow: antes de {
+    content: "\ e923"
+}
+
+. icon-mv-reorder: antes de {
+    content: "\ e920"
+}
+
+. icon-mv-call-status: before {
+    content: "\ e91c"
+}
+
+.icon-mv-user-add: before {
+    content: "\ e91d"
+}
+
+. icon-mv-user-partner: before {
+    content: "\ e91e "
+}
+
+. icon-mv-mesclar: antes de {
+    content: " \ e918 "
+}
+
+. icon-mv-close2: antes de {
+    content: " \ e919 "
+}
+
+. icon-mv-bank: antes de {
+    content: " \ e91a "
+}
+
+.icon-mv-branch: before {
+    content: " \ e91b "
+}
+
+. icon-mv-delete: before {
+    content: " \ e91f "
+}
+
+. icon-mv-options: before {
+    content: " \ e917 "
+}
+
+.icon-mv-chat-status: antes de {
+    content: "\ e916"
+}
+
+. icon-mv-expand-down: antes de {
+    content: "\ e912"
+}
+
+. icon-mv-expand-left: before {
+    content: " \ e913 "
+}
+
+. icon-mv-expand-right: before {
+    content: " \ e914 "
+}
+
+. icon-mv-expand-up: before {
+    content: " \ e915 "
+}
+
+. icon-mv-mv-menu: antes {
+    content: "\ e910"
+}
+
+. icon-mv-call: before {
+    content: "\ e911"
+}
+
+. icon-mv-filter: before {
+    content: "\ e900"
+}
+
+. icon-mv-no-filter: before {
+    content: "\ e901"
+}
+
+. icon-mv-arrow-down2: antes de {
+    content: "\ e902"
+}
+
+. icon-mv-arrow-left2: antes de {
+    content: "\ e903"
+}
+
+. icon-mv-arrow-right2: antes de {
+    content: "\ e904"
+}
+
+. icon-mv-arrow-up2: antes de {
+    content: "\ e905"
+}
+
+. icon-mv-check2: antes de {
+    content: "\ e906"
+}
+
+. icon-mv-double-arrowleft: antes de {
+    content: "\ e907"
+}
+
+. icon-mv-double-arrow-right: anterior {
+    content: "\ e908"
+}
+
+. icon-mv- drop-down: antes de {
+    content: "\ e909"
+}
+
+. icon-mv-drop-right: antes de {
+    content: "\ e90a"
+}
+
+. icon-mv-drop-up: antes de {
+    content: "\ e90b"
+}
+
+. icon-mv-drop-left: antes de {
+    content: "\ e90c"
+}
+
+. icon-mv-flag-solid: antes de {
+    content: "\ e90d"
+}
+
+. icon-mv-remove: before {
+    content: "\ e90e"
+}
+
+.icon-mv-warning: antes de {
+    content: "\ e90f"
+}
+
+. icon-mv-user-female: antes de {
+    content: "\ e000"
+}
+
+. icon-mv-user-check: before {
+    content: "\ e003 "
+}
+
+. icon-mv-user-remove: antes de {
+    content: " \ e004 "
+}
+
+. icon-mv-user: antes de {
+    content: " \ e005 "
+}
+
+.icon-mv-users: before {
+    content: "\ e001"
+}
+
+. icon-mv-smile: before {
+    content: "\ e021"
+}
+
+. icon-mv-arrow-up1: antes de {
+    content: "\ e078"
+}
+
+.icon-mv-arrow-right1: antes de {
+    content: "\ e079"
+}
+
+. icon-mv-arrow-down1: antes de {
+    content: "\ e07b"
+}
+
+. icon-mv-arrow-left1: antes de {
+    content: "\ e07a"
+}
+
+. icon-mv-add: antes de {
+    content: "\ e095"
+}
+
+. icon-mv-check: antes de {
+    content: "\ e080"
+}
+
+. icon-mv-clock: antes de {
+    content: "\ e081 "
+}
+
+. icon-mv-close: antes de {
+    content: " \ e082 "
+}
+
+. icon-mv-question: antes de {
+    content: " \ e05d "
+}
+
+. icon-mv-info: antes de {
+    content: " \ e08b "
+}
+
+.icon-mv-power: antes de {
+    content: "\ e097"
+}
+
+. icon-mv-reload: antes de {
+    content: "\ e099"
+}
+
+. icon-mv-refresh: antes de {
+    content: "\ e098"
+}
+
+. icon-mv-ban: antes de {
+    content: "\ e07c"
+}
+
+. icon-mv-compass: antes de {
+    content: "\ e045"
+}
+
+. icon-mv-search:antes de {
+    content: "\ e090"
+}
+
+. icon-mv-zoom-in: antes de {
+    content: "\ e091"
+}
+
+. icon-mv-zoom-out: antes de {
+    content: "\ e092"
+}
+
+. icon-mv- gráfico de setores circulares: antes de {
+    content: "\ e05e"
+}
+
+. icon-mv-target: antes de {
+    content: "\ e09e"
+}
+
+. icon-mv-disc: antes de {
+    content: "\ e022"
+}
+
+. icon-mv- bell: antes de {
+    content: "\ e027"
+}
+
+. icon-mv-earphones-alt: antes de {
+    content: "\ e03c"
+}
+
+. icon-mv-earphones: antes de {
+    content: "\ e03d"
+}
+
+. icon-mv- monitor: antes de {
+    content: "\ e011"
+}
+
+. icon-mv-chart: antes de {
+    content: "\ e077"
+}
+
+. icon-mv-graph: antes de {
+    content: "\ e06b"
+}
+
+. icon-mv-doc: antes de {
+    content: "\ e085"
+}
+
+. icon-mv-docs: antes de {
+    content: "\ e040"
+}
+
+. icon-mv-call-end: antes de {
+    content: "\ e048"
+}
+
+. icon-mv-call- out: before {
+    content: "\ e046"
+}
+
+. icon-mv-call-in: before {
+    content: "\ e047"
+}
+
+. icon-mv-home: antes de {
+    content: "\ e069"
+}
+
+. icon-mv-logout: antes de {
+    content: "\ e065"
+}
+
+. icon-mv-login: antes de {
+    content: "\ e066"
+}
+
+. icon-mv-share-alt: antes de {
+    content: "\ e05a"
+}
+
+. icon-mv-loop: antes de {
+    content: "\ e064"
+}
+
+. icon-mv-note: antes de {
+    content: "\ e060"
+}
+
+. icon-mv-edit: before {
+    content: "\ e05f "
+}
+
+. icon-mv-crop: antes de {
+    content: " \ e024 "
+}
+
+. icon-mv-folder: antes de {
+    content: " \ e089 "
+}
+
+. icon-mv-folder-open: before {
+    content: " \ e039 "
+}
+
+. icon-mv-print: antes de {
+    content: " \ e02e "
+}
+
+. icon-mv-settings: antes de {
+    content: " \ e09a "
+}
+
+. icon-mv-Adjust: antes de {
+    content: " \ e06c "
+}
+
+.icon-mv-layers: antes de {
+    content: "\ e034"
+}
+
+. icon-mv-list: antes de {
+    content: "\ e067"
+}
+
+. icon-mv-calendar: antes de {
+    content: "\ e075"
+}
+
+. icon-mv-flag: antes de {
+    content: "\ e088"
+}
+
+. icon-mv-wrench: before {
+    content: "\ e052"
+}
+
+.icon-mv-lixo: antes de {
+    content: "\ e054"
+}
+
+. icon-mv-envelope: antes de {
+    content: "\ e086"
+}
+
+. icon-mv-envelope-open: antes de {
+    content: "\ e01e"
+}
+
+. icon-mv-envelope-novo: antes de {
+    content: "\ e01f"
+}
+
+. icon-mv-chat1: antes de {
+    content: "\ e04a"
+}
+
+. icon-mv-chat2: antes de {
+    content: "\ e07d"
+}
+
+. icon-mv-message: before {
+    content: "\ e02c"
+}
+
+. icon-mv-tag: before {
+    content: "\ e055"
+}
+
+. icon-mv-drawar: before {
+    content: "\ e03f"
+}
+
+. icon- mv-briefcase: antes de {
+    content: "\ e04b"
+}
+
+. icon-mv-book-open: before {
+    content: "\ e04c"
+}
+
+. icon-mv-map: before {
+    content: "\ e033"
+}
+
+. icon- mv-graduação: antes de {
+    content: "\ e019"
+}
+
+. icon-mv-globe: antes de {
+    content: "\ e036"
+}
+
+. icon-mv-globe-alt: antes de {
+    content: "\ e037"
+}
+
+. icon- mv-time: antes de {
+    content: "\ e018"
+}
+
+. icon-mv-vector: antes de {
+    content: "\ e02b"
+}
+
+.icon-mv-wifi: antes de {
+    content: "\ e03b"
+}
+
+. icon-mv-drop: antes de {
+    content: "\ e03e"
+}
+
+. icon-mv-plane-mode: antes de {
+    content: "\ e012"
+}
+
+. icon-mv-directions: before {
+    content: "\ e041"
+}
+
+. icon-mv-direction: before {
+    content: "\ e042"
+}
+
+. icon-mv-options2: before {
+    content: "\ e06a"
+}
+
+. icon- mv-frame: antes de {
+    content: "\ e038"
+}
+
+. icon-mv-fullscreen: antes de {
+    content: "\ e057"
+}
+
+. icon-mv-real-size: before {
+    content: "\ e058"
+}
+
+. icon- mv-fit: antes de {
+    content: "\ e023"
+}
+
+. icon-mv-shuffle: antes de {
+    content: "\ e059"
+}
+
+. icon-mv-share: antes de {
+    content: "\ e05b"
+}
+
+. icon-mv- como: antes de {
+    content: "\ e068"
+}
+
+. icon-mv-dislike: antes de {
+    content: "\ e06d"
+}
+
+. icon-mv-key: antes de {
+    content: "\ e08c"
+}
+
+. icon-mv-lock: antes de {
+    content: "\ e08e"
+}
+
+. ​​icon-mv-unlock: antes de {
+    content: "\ e08f"
+}
+
+.icon-mv-cloud-download: antes de {
+    content: "\ e083"
+}
+
+. icon-mv-cloud-upload: antes de {
+    content: "\ e084"
+}
+
+. icon-mv-link: antes de {
+    content: "\ e08d"
+}
+
+.icon-mv-attachment: antes de {
+    content: "\ e093"
+}
+
+. icon-mv-send: antes de {
+    content: "\ e094"
+}
+
+. icon-mv-pin-alt: antes de {
+    content: "\ e031"
+}
+
+.icon-mv-lamp: antes de {
+    content: "\ e076"
+}
+
+. icon-mv-pin: antes de {
+    content: "\ e096"
+}
+
+. icon-mv-location: before {
+    content: "\ e06e"
+}
+
+. icon-mv-calculator: antes de {
+    content: "\ e049"
+}
+
+. icon-mv-support: antes de {
+    content: "\ e056"
+}
+
+. icon-mv-umbrella: antes de {
+    content: "\ e053"
+}
+
+. icon- mv-anchor: antes de {
+    content: "\ e029"
+}
+
+. icon-mv-puzzle: antes de {
+    content: "\ e02d"
+}
+
+. icon-mv-magnet: antes de {
+    content: "\ e016"
+}
+
+. icon-mv- shield: antes de {
+    content: "\ e00e"
+}
+
+. icon-mv-energy: antes de {
+    content: "\ e020"
+}
+
+.icon-mv-speedmeter: antes de {
+    content: "\ e007"
+}
+
+. icon-mv-wallet: antes de {
+    content: "\ e02a"
+}
+
+. icon-mv-credit-card: antes de {
+    content: "\ e025"
+}
+
+. icon-mv-cart-empty: before {
+    content: "\ e04e"
+}
+
+. icon-mv-cart-full: before {
+    content: "\ e04d"
+}
+
+. icon-mv-cart-bag: before {
+    content: "\ e04f "
+}
+
+. icon-mv-bag: antes de {
+    content: " \ e035 "
+}
+
+. icon-mv-gift: antes de {
+    content: " \ e02f "
+}
+
+. icon-mv-notebook: antes de {
+    content: " \ e013 "
+}
+
+.icon-mv-mouse: antes de {
+    content: "\ e015"
+}
+
+. icon-mv-cellphone: antes de {
+    content: "\ e010"
+}
+
+. icon-mv-tablet: antes de {
+    content: "\ e00f"
+}
+
+. icon-mv-chemestry: antes de {
+    content: "\ e026"
+}
+
+. icon-mv-rocket: antes de {
+    content: "\ e05c"
+}
+
+. icon-mv-troféu: antes de {
+    content: "\ e006"
+}
+
+. icon- mv-bigode: antes de {
+    content: "\ e014"
+}
+
+. icon-mv-ghost: antes de {
+    content: "\ e01a"
+}
+
+.icon-mv-game-controller: antes de {
+    content: "\ e01b"
+}
+
+. icon-mv-glasses: antes de {
+    content: "\ e01d"
+}
+
+. icon-mv-award: antes de {
+    content: "\ e028"
+}
+
+. icon-mv-fire: antes de {
+    content: "\ e01c"
+}
+
+. icon-mv-coffee: antes de {
+    content: "\ e044"
+}
+
+. icon-mv-wand: before {
+    content: "\ e017"
+}
+
+. icon- mv-diamond: antes de {
+    content: "\ e043"
+}
+
+. icon-mv-heart: antes de {
+    content: "\ e08a"
+}
+
+. icon-mv-star: antes de {
+    content: "\ e09b"
+}
+
+. icon-mv- feminino: antes de {
+    content: "\ e09c"
+}
+
+. icon-mv-male: antes de {
+    content: "\ e09d"
+}
+
+. icon-mv-film: antes de {
+    content: "\ e03a"
+}
+
+. icon-mv-video: antes de {
+    content: "\ e07e"
+}
+
+. icon-mv-photo: antes de {
+    content: "\ e07f"
+}
+
+. icon-mv-picture: before {
+    content: "\ e032"
+}
+
+. icon-mv-visible: antes de {
+    content: "\ e087"
+}
+
+. icon-mv-mic: antes de {
+    content: "\ e063"
+}
+
+. icon-mv-playlist:antes de {
+    content: "\ e030"
+}
+
+. icon-mv-music1: antes de {
+    content: "\ e061"
+}
+
+. icon-mv-music2: antes de {
+    content: "\ e062"
+}
+
+. icon-mv-play: before {
+    content: "\ e071"
+}
+
+. icon-mv-pause: before {
+    content: "\ e072"
+}
+
+. icon-mv-rewind: before {
+    content: "\ e070"
+}
+
+. icon-mv-forward: antes de {
+    content: "\ e073"
+}
+
+. icon-mv-start: before {
+    content: "\ e06f"
+}
+
+. icon-mv-end: before {
+    content: "\ e074"
+}
+
+. icon-mv-volume-low: antes de {
+    content: "\ e09f"
+}
+
+. icon-mv-volume-loud: antes de {
+    content: "\ e0a0"
+}
+
+. icon-mv-volume-mudo: antes de {
+    content: "\ e0a1"
+}
+
+. icon-mv-twitter: before {
+    conteúdo: "\ e009"
+}
+
+. icon-mv-facebook: antes de {
+    content: "\ e00b"
+}
+
+. icon-mv-tumblr: antes de {
+    content: "\ e00a"
+}
+
+. icon-mv-dropbox: before {
+    content: "\ e00c"
+}
+
+. icon-mv-dribble: antes de {
+    content: "\ e00d"
+}
+
+. icon-mv-youtube:antes de {
+    content: "\ e008"
+}
+
+body {
+    família de fontes: Roboto, sans-serif;
+    cor: # 4a4a4a;
+    peso da fonte: 400
+}
+
+.btn {
+    padding: 0;
+    margin: 0;
+    width: 147px;
+    height: 40px;
+    raio da borda: 3px;
+    tamanho da fonte: 16px;
+    peso da fonte: 700;
+    cor: #fff! important;
+    sombra de texto: nenhuma;
+    altura da linha: 40px;
+    exibição: bloco em linha;
+    borda: nenhuma
+}
+
+.btn .btn-verde {
+    cor de fundo: # 66bb6a
+}
+
+.btn.btn-verde: passe o mouse {
+    cor de fundo: # 34a052
+}
+
+@media (largura mínima: 1200px) {
+    . container {
+        width: 990px
+    }
+}
+
+. coluna flexível {
+    -moz-display: flex;
+    -webkit-display: flex;
+    display: flex
+}
+
+.justify-content {
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center
+}
+
+.align -items {
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center
+}
+
+#header__top {
+    background-color: #fff;
+    border: none;
+    height: 70px;
+    margin-bottom: 0
+}
+
+#header__top #logo {
+    padding: 0;
+    margin: 17px 0;
+    float: left;
+    display: block;
+    height: auto
+}
+
+@media (largura máxima:767px) {
+    # header__top #logo {
+        width: 100%;
+        padding: 0 15px
+    }
+    #header__top #logo img {
+        margin: auto
+    }
+}
+
+# header__top .text__central {
+    float: left;
+    border-left: 1px solid # d8d8d8;
+    padding-left: 20px;
+    margem esquerda: 20px;
+    tamanho da fonte: 16px;
+    cor: # 4a4a4a;
+    altura da linha: 40px;
+    margem superior: 13px
+}
+
+@media (largura máxima: 767px) {
+    # header__top .text__central {
+        display: none
+    }
+}
+
+# header__top .enter__contact {
+    padding: 0;
+    margin-top: 14px
+}
+
+@media (largura máxima: 767px) {
+    # header__top .enter__contact {
+        display: none
+    }
+}
+
+# header__top .enter__contact a.btn-entrar {
+    font-size: 16px;
+    peso da fonte: 400;
+    cor: # 4a4a4a;
+    borda-direita: 1px sólido # d8d8d8;
+    preenchimento-direito: 20px;
+    margem-direita: 20px;
+    altura da linha: 40px;
+    exibição: bloco em linha
+}
+
+#header__top. enter__contato a.btn-entrar: hover {
+    color: # ef5350
+}
+
+.header__search {
+    width: 100%;
+    background-color: # ef5350
+}
+
+@media (largura máxima: 767px) {
+    . header__search {
+        background-color: # f7f7f7;
+        padding: 40px 15px
+    }
+}
+
+. Header__search.box__search {
+    -webkit-flex-direction: coluna;
+    -moz-flex-direction: coluna;
+    flex-direction: coluna
+}
+
+@media (largura mínima: 768px) {
+    . header__search .box__search {
+        altura mínima: 300px
+    }
+}
+
+. header__search .box__search h2 {
+    color: #fff;
+    tamanho da fonte: 24px;
+    peso da fonte: 700;
+    margem: 0 0 20px 0;
+    alinhamento de texto: centro
+}
+
+@media (largura máxima: 767px) {
+    . header__search .box__search h2 {
+        cor: # 4a4a4a;
+        tamanho da fonte: 20px
+    }
+}
+
+. header__search .box__search .search__form .control .field {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    position: relative
+}
+
+.header__search .box__search .search__form .control .field:: - webkit-input-placeholder {
+    color: rgba (74, 74, 74, .3)
+}
+
+. header__search .box__search .search__form .control .field:: - moz-placeholder {
+    color: rgba (74, 74, 74, .3)
+}
+
+. Header__search .box__search .search__form .control .field: -ms-input-placeholder {
+    color: rgba (74, 74, 74, .3)
+}
+
+. Header__search .box__search .search__form .control .field:-moz-placeholder {
+    color: rgba (74, 74, 74, .3)
+}
+
+. header__search .box__search .search__form .control .field input {
+    width: 100%;
+    border: none;
+    raio da borda: 30px;
+    padding: 15px 16px 15px 70px;
+    height: auto;
+    line-height: normal;
+    font-size: 16px;
+    border: solid 1px #fff
+}
+
+.header__search .box__search .search__form .control .control .field input: hover {
+    box-shadow: inset 0 0 0 2px # e8e8e8
+}
+
+.header__search .box__search .search__form .control .field input: focus {
+    border: solid 1px # 979797;
+    box-shadow: 0 0 10px rgba (0, 0, 0, .15)
+}
+
+. header__search .box__search .search__form .control .field button {
+    background: 0 0;
+    border: none;
+    cor: # 4a4a4a;
+    font-size: 20px;
+    line-height: 20px;
+    position: absolute;
+    top: 16px;
+    left: 30px;
+    z-index: 5;
+    padding: 0
+}
+
+.box__main {
+    cor do plano de fundo: # f7f7f7;
+    largura: 100%;
+    parte superior do estofamento: 60px;
+    parte inferior do estofamento: 60px
+}
+
+@media (largura máxima: 767px) {
+    . Box__main {
+        cor do plano de fundo: #fff;
+        estofamento: 40px 15px 0 15px
+    }
+}
+
+@ media (largura máxima: 767px) {
+    . Box__main .main__item {
+        padding-bottom: 20px;
+        padding-left: 0;
+        padding-right: 0
+    }
+}
+
+@ media (min-width: 768px) {
+    .box__main .main__item {
+        padding-left: 5px;
+        padding-right: 5px
+    }
+}
+
+. box__main .main__item a {
+    background-color: #fff;
+    -webkit-flex-direction: coluna;
+    -moz-flex-direction: column;
+    flex -direction: column;
+    padding: 15px;
+    min-height: 160px;
+    -webkit-transição: todos .2s facilitam a entrada;
+    -moz-transição: todos .2s facilitam a entrada;
+    -ms-transição: todos. 2s facilidade de entrada;
+    -o-transição: tudo .2s facilidade de entrada;
+    transição: tudo .2s facilidade de entrada
+}
+
+@media (largura máxima: 767px) {
+    . Box__main .main__item a {
+        background- color: # f7f7f7
+    }
+}
+
+. box__main .main__item a: pairar {
+    box-shadow: 6px 5px 16px 0 rgba (0, 0, 0, .15)
+}
+
+. box__main .main__item ai {
+    color: # ef5350;
+    tamanho da fonte: 50px
+}
+
+.box__main .main__item a h3 {
+    tamanho da fonte: 16px;
+    peso da fonte: 700;
+    cor: # 4a4a4a;
+    margem superior: 20 px;
+    margem inferior: 0;
+    alinhamento do texto: center
+}
+
+rodapé {
+    cor de plano de fundo: #fff
+}
+
+rodapé .box__artigos {
+    exibição: nenhuma
+}
+
+@media (largura mínima: 768px) {
+    rodapé .box__artigos .artigos {
+        margem: 0 -15px
+    }
+}
+
+@ mídia (largura mínima: 992px) {
+    rodapé .box__artigos .artigos {
+        margem: 0 -20px
+    }
+}
+
+@ media (largura mínima: 1200px) {
+    rodapé .box__artigos .artigos {
+        margem: 0 -60px
+    }
+}
+
+rodapé .box__artigos .artigos> div {
+    padding: 20px 7px
+}
+
+@media (largura mínima: 768px) {
+    rodapé .box__artigos .artigos> div {
+        preenchimento: 30px 15px
+    }
+}
+
+@ media (largura mínima: 992px) {
+    rodapé .box__artigos .artigos> div {
+        preenchimento: 50px 20px
+    }
+}
+
+@ mídia (largura mínima: 1200px) {
+    rodapé .box__artigos .artigos> div {
+        preenchimento: 50px 60px
+    }
+}
+
+rodapé .widget.articles h2 {
+    tamanho da fonte: 20px;
+    peso da fonte: 700;
+    cor: # 4a4a4a;
+    margin-top: 0;
+    margin-bottom: 30px
+}
+
+rodapé .widget.articles ul {
+    estilo da lista: nenhum;
+    preenchimento: 0;
+    margem: 0
+}
+
+rodapé .widget.articles ul li {
+    borda-inferior: 1px sólido # e6e6e6;
+    padding-bottom: 8px;
+    margem inferior: 8px
+}
+
+rodapé.widget.articles ul {
+    a {
+        color: # 4a4a4a;
+        display: block;
+        font-size: 14px
+    }
+    rodapé .widget.articles ul li: ultimo filho {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none
+    }
+    rodapé .box__footer {
+        cor de fundo: # f7f7f7;
+        parte superior do preenchimento: 40px;
+        parte inferior do preenchimento: 40px
+    }
+    @media (largura máxima: 767px) {
+        rodapé .box__footer {
+            preenchimento: 30px 15px;
+            margem superior: 20px
+        }
+    }
+    rodapé .box__footer .footer__contact {
+        float: left;
+        width: 50%
+    }
+    @ media (largura máxima: 767px) {
+        rodapé .box__footer .footer__contact {
+            width: 100%
+        }
+    }
+    @ media (largura máxima: 767px) e (max -width: 767px) {
+        footer .box__footer .footer__contact {
+            display: flex;
+            -moz-display: flex;
+            -webkit-display: flex;
+            justify-content: center;
+            -moz-justify-content: center;
+            -moz-justify-content: center;
+            -webkit-justify- content: center;
+            align-items: center;
+            -moz-align-items: center;
+            -webkit-align-items: center
+        }
+    }
+    rodapé .box__footer .footer__contact img {
+        float: left;
+        margin-right: 10px;
+        margin-top: 2px
+    }
+    rodapé .box__footer.footer__contact i {
+        float: left;
+        margin-right: 10px;
+        margin-top: 2px;
+        tamanho da fonte: 41px;
+        color: # ef5350
+    }
+    footer .box__footer .fo__ .oteroter.footer__contact .contact {
+        font-size: 14px;
+        line-height: 1, 71;
+        cor: # 4a4a4a
+    }
+    rodapé .box__footer .footer__social {
+        float: right;
+        largura: 50%;
+        margin-top: 8px
+    }
+    @media (largura máxima: 767px) {
+        footer .box__footer .footer__social {
+            width: 100%;
+            margin-top: 20px
+        }
+    }
+    rodapé .box__footer .footer__social ul {
+        estilo da lista: nenhum;
+        preenchimento: 0;
+        margem: 0;
+        margem: 0;
+        flutuação: direita;
+        tamanho da fonte: 0
+    }
+    @media (largura máxima: 767px) {
+        rodapé .box__footer .footer__social ul {
+            float: nenhum;
+            alinhamento de texto: centro
+        }
+    }
+    rodapé .box__footer .footer ulsocial ul {
+        exibição: bloco em linha
+    }
+    rodapé .box__footer .footer__social ul li a {
+        font-size: 15px;
+        background-color: # ef5350;
+        border -radius: 4px;
+        color: #fff;
+        padding: 0;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        margin-left: 10px;
+        display: block
+    }
+    footer .box__footer .footer__social ul li a:hover {
+        background-color: # e13d3e
+    }
+    rodapé .box__footer .footer__social ul li: primeiro filho a {
+        margin-left: 0
+    }
+    footer.credits.kb-footer {
+        padding: 0;
+        background: 0 0;
+        display: none
+    }
+    body > .body-content> div.row {
+        largura máxima: 990px;
+        largura: 100%
+    }
+    @ media (largura máxima: 767px) {
+        body> .body-content> div.row {
+            largura máxima: inicial;
+            largura: auto
+        }
+    }
+    @ mídia (largura mínima: 768px) {
+        body> .body-content> div.row {
+            margin: auto
+        }
+    }
+    body> .body-content> div.row> div.col-sm-12: nth- child (1) {
+        padding-bottom: 170px
+    }
+    @media (max-width: 767px) {
+        body> .body-content> div.row> div.col-sm-12: nth-child (1) {
+            padding-bottom: 0
+        }
+    }
+    @ media (largura mínima: 768px) {
+        body> .body-content> div.row> div.col-sm-12: enésimo filho (3) {
+            position: absolute;
+            top: 70px;
+            left: 0;
+            width: 100%
+        }
+    }
+    corpo> conteúdo do corpo> div.row> div.col-sm-9: último filho {
+        padding: 0
+    }
+    @media (largura máxima: 767px) {
+        body> .body- conteúdo> div.row> div.col-sm-9:último filho {
+            width: 100%;
+            padding: 0 15px
+        }
+    }
+    @ media (largura mínima: 768px) {
+        body> .body-content> div.row> div.col-sm-9: last-child {
+            width: 70%;
+            padding-right: 15px
+        }
+    }
+    @ media (largura mínima: 992px) {
+        body> .body-content> div.row> div.col-sm-9: último filho {
+            padding-right: 0
+        }
+    }
+    @media (largura mínima: 1200 px) {
+        corpo> conteúdo do corpo> div.row> div.col-sm-9: último filho {
+            largura: 70%
+        }
+    }
+    @ media (largura máxima: 767 px) {
+        body > .body-content> div.row de lado {
+            width: 100%;
+            padding: 0 15px
+        }
+    }
+    @ media (largura mínima: 768px) {
+        body> .body-content> div.row de lado {
+            padding: 0 20px 0 15px;
+            width: 30%
+        }
+    }
+    @ media (largura mínima: 992px) {
+        body> .body-content> div.row de lado {
+            padding: 0 30px 0 0
+        }
+    }
+    @ media (largura mínima: 1200px) {
+        body>. body-content> div.row de lado {
+            padding: 0 50px 0 0;
+            width: 30%
+        }
+    }
+    body> .body-content> div.row de lado .kb-menu-container {
+        background: 0 0;
+        padding: 0;
+        margin -bottom: 30px
+    }
+    corpo> conteúdo do corpo> div.linha ao lado .kb-menu-container ul {
+        padding-left: 0;
+        width: 100%
+    }
+    body> .body-content> div.row à parte .kb-menu-container li {
+        padding: 0;
+        display: flex;
+        flex- direção: linha reversa;
+        flex-wrap: wrap;
+        justify-content: flex-end
+    }
+    body> .body-content> div.row side .kb-menu-container li i {
+        font-size: 16px;
+        vertical-align: 0;
+        margin-top: 3px;
+        margin-left: 5px
+    }
+    corpo> .body-content> div.row à parte .kb-menu-container li i.fa-plus-square-o: antes de {
+        content: "\ e912" ! importante;
+        família de fontes: icomoon! importante;
+        fala: nenhum;
+        estilo de fonte: normal;
+        peso da fonte: 400;
+        variante de fonte: normal;
+        transformação de texto: nenhum;
+        altura da linha: 1;
+        -webkit-font- suavização: antialias;
+        -moz-osx-font-smoothing: escala de cinza
+    }
+    corpo> .body-content> div.row de lado .kb-menu-container li a {
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 12px;
+        color: # 999
+    }
+    corpo> conteúdo do corpo> div.row side .kb-menu-container li a:passe o mouse {
+        color: # ef5350
+    }
+    corpo> conteúdo do corpo> div.row de lado .kb-menu-container li a.active {
+        color: # ef5350
+    }
+    corpo> .body-content> div.row de lado .kb-menu- container li ul li {
+        preenchimento esquerdo: 20px
+    }
+    corpo> conteúdo do corpo> div.row à parte .kb-menu-container> li {
+        margem inferior: 8px
+    }
+    corpo> conteúdo do corpo> div.row à parte .kb -menu-container> li.opened> i.fa-plus-square-o: antes de {
+        content: "\ e915"! important
+    }
+    corpo> .body-content> div.row à parte .kb-menu-container> li> a {
+        color: # 4a4a4a;
+        peso da fonte: 700;
+        tamanho da fonte: 18px
+    }
+    corpo> conteúdo do corpo> div.row side .kb-menu-container> li> ul> li.opened> i.fa-plus -square-o: antes de {
+        content: "\ e915"! important
+    }
+    corpo> .body-content> div.row à parte .kb-menu-container> li> ul> li> a {
+        font-size: 16px;
+        color: # 4a4a4a
+    }
+    corpo> .body-content> div.row de lado .kb-menu-container> li> ul> li>ul> li.opened> i.fa-plus-square-o: antes de {
+        content: "\ e915"! important
+    }
+    corpo> .body-content> div.row side .kb-menu-container> li> ul> li > ul> li> a {
+        font-size: 14px;
+        color: # 999
+    }
+    body> .body-content> div.row side .kb-menu-container> li> ul> li> ul> li> ul> li. aberto> i.fa-plus-square-o: antes de {
+        content: "\ e915"! important
+    }
+    corpo> .body-content> div.row à parte .kb-menu-container> li> ul> li> ul> li > ul> li> ul> li.opened> i.fa-plus-square-o: antes de {
+        content: "\ e915"! important
+    }
+    corpo> .body-content> div.row à parte .kb-menu-container> li> ul> li> ul> li> ul> li> ul> li> ul> li.opened> i.fa-plus-square-o: antes de {
+        content: "\ e915"! important
+    }
+    body> .body- content> div.row .header__search {
+        display: none
+    }
+    corpo> .body-content>.kb-content-main {
+        max-width: inicial! importante;
+        largura: auto! importante;
+        margem: 0 -8px! important
+    }
+    corpo> .body-content> .kb-content-main> div.col-sm-12: enésimo filho (1) {
+        padding-bottom: 0! important
+    }
+    corpo> artigo .body-content # kb-article. cabeçalho de artigo {
+        border: none
+    }
+    corpo> .body-content article # kb-article .article-header .article-title {
+        tamanho da fonte: 32px;
+        peso da fonte: 700;
+        cor: # 4a4a4a;
+        margem inferior: 10px
+    }
+    @media (largura máxima: 767px) {
+        body> .body-article article # kb-article. cabeçalho do artigo. título do artigo {
+            font-size: 25px
+        }
+    }
+    corpo> artigo do conteúdo do corpo # kb-article cabeçalho do artigo. informação criada {
+        cor: # b3b3b3;
+        margem inferior: 28 px;
+        tamanho da fonte: 14px;
+        estilo da fonte: normal;
+        borda: nenhuma
+    }
+    corpo> .body-content article # kb-article .article-content {
+        font-size: 14px;
+        line-height: 24px;
+        color: # 4a4a4a;
+        margin-bottom: 40px
+    }
+    corpo> artigo .body-content # kb-article .article-content p {
+        margin: 0 0 15px;
+        padding: 0! important
+    }
+    corpo> artigo .body-content # kb-article .article-content a {
+        color: # ef5350
+    }
+    body> .body-content article # kb-article .article-content ul {
+        padding-left: 15px;
+        margin: 0 0 15px
+    }
+    body> .body-content article # kb-article .article-content ol {
+        padding-left: 15px;
+        margin: 0 0 15px
+    }
+    body> .body-content article # kb-article .article- content img {
+        max-width: 100%;
+        margin: auto;
+        height: auto
+    }
+    body> .body-content article # kb-article .article-content iframe {
+        width: 100%
+    }
+    @ media (largura mínima: 992px) {
+        corpo> artigo .body-content # kb-article .artigo de conteúdo iframe {
+            min-height: 343px
+        }
+    }
+    corpo> .body-content article # kb-article .artigo de tabela de conteúdo {
+        width: 100%! important
+    }
+    body> artigo .body-content # kb-article .tags-info {
+        color: # b3b3b3
+    }
+    corpo> .body-content article # kb-article .tags-info a {
+        color: # b3b3b3;
+        border-color: # b3b3b3
+    }
+    body> Artigo .body-content # kb-article.tags-info a: primeiro filho {
+        border-left: none
+    }
+    corpo> .body-content article # kb-article .tags-info a: pairar {
+        color: # ef5350
+    }
+    body> .body-content article # kb-article .article-footer #attachments {
+        border-bottom: 1px solid # e5e5e5;
+        padding-bottom: 30px;
+        margin-bottom: 30px
+    }
+    corpo> .body-content article # kb-article .article-footer #attachments hr {
+        exibir: nenhum
+    }
+    body> .body-content article # kb-article .article-footer #attachments h3 {
+        font-size: 16px;
+        font-weight: 700;
+        color: # 4a4a4a;
+        margin-bottom: 20px;
+        margin-top: 0
+    }
+    corpo > artigo .body-content # kb-article. rodapé de artigo # anexos ul {
+        estilo da lista: nenhum;
+        preenchimento: 0;
+        margem: 0
+    }
+    corpo> artigo .body-content # kb-article. artigo rodapé ul li {
+        padding: 0 0 10px 0;
+        margin: 0 0 10px 0;
+        border-bottom: 1px solid # f2f2f2
+    }
+    body> .body-content article # kb-article .article-footer #attachments ul li a {
+        color: # 4a4a4a
+    }
+    corpo>.artigo de conteúdo do corpo # kb-article. rodapé do artigo # anexos ul li a: hover {
+        color: # ef5350
+    }
+    corpo> artigo de conteúdo do corpo # kb-article. rodapé do artigo # anexos ul li: último filho {
+        padding: 0;
+        margin: 0;
+        border-bottom: none
+    }
+    body> .body-content article # kb-article # rating-box {
+        background: 0 0;
+        border: none;
+        padding: 0;
+        margin-bottom: 50px
+    }
+    body> .body-content article # kb-article # rating-box # rating-box-form h5 {
+        tamanho da fonte: 16px;
+        peso da fonte: 700;
+        cor: # 4a4a4a;
+        margem inferior: 20 px;
+        margem superior: 0
+    }
+    body> .body-content article # kb-article # rating-box # rating-box-form .form-inline .radio-inline {
+        color: # 4a4a4a;
+        tamanho da fonte: 16px;
+        padding-left: 0;
+        margin-right: 30px;
+        margin-left: 0
+    }
+    body> .body-content article # kb-article # rating-box # rating-box-form .form-inline .radio-inline input [type=radio] {
+        position: absolute;
+        visibilidade: oculto
+    }
+    corpo>.artigo do conteúdo do corpo # kb-article # caixa de classificação # forma da caixa de classificação .form-inline .radio-inline: antes de {
+        content: "";
+        width: 15px;
+        height: 15px;
+        cor de fundo: #fff;
+        borda: solid 1px # b3b3b3;
+        raio da borda: 15px;
+        display: bloco em linha;
+        alinhamento vertical: -1px;
+        margem-direita: 5px
+    }
+    corpo> .body-content article # kb-article # Rating-box # Rating-box -form .form-inline .radio-inline: depois de {
+        content: "\ e068";
+        família de fontes: icomoon! importante;
+        falar: nenhum;
+        estilo de fonte: normal;
+        peso da fonte: 400;
+        variante da fonte: normal;
+        transformação de texto: nenhuma;
+        altura da linha: 1;
+        -webkit-smoothing de fontes: antialias;
+        -moz-osx-smoothing de fontes: escala de cinza;
+        margem esquerda: 5px
+    }
+    corpo> .body-content article # kb-article # class-box # class-box-form .form-inline .radio-inline: last-child: after {
+        content: "\ e06d"
+    }
+    body> .body-content article # kb-article # rating-box-confirm h5 {
+        cor: # ef5350;
+        tamanho da fonte: 16px;
+        margem: 0
+    }
+    corpo>.artigo de conteúdo do corpo # kb-article # artigos visitados pela última vez {
+        display: none! important
+    }
+    body> artigo de conteúdo do corpo # kb-article # artigos relacionados {
+        border: none;
+        padding: 0;
+        margin: 0;
+        box -sombra: nenhuma;
+        margem-inferior: 40px
+    }
+    corpo> .body-content article # kb-article # artigos relacionados .panel header {
+        border: none;
+        background: 0 0;
+        box-shadow: none;
+        padding: 0;
+        tamanho da fonte: 16px;
+        peso da fonte: 700;
+        cor: # 4a4a4a;
+        margin-bottom: 15px
+    }
+    body> .body-content article # kb-article # artigos relacionados ul li {
+        padding: 0 0 10px 0;
+        margin: 0 0 10px 0;
+        border-bottom: 1px solid # f2f2f2
+    }
+    corpo> .body-content article # kb-article # artigos relacionados ul li a {
+        color: # 4a4a4a
+    }
+    .search-container {
+        padding-bottom: 0! Important
+    }
+    @media (largura máxima: 767px) {
+        . search-container {
+            padding-right: 15px;
+            padding-left: 15px
+        }
+    }
+    . search-container> h1 {
+        font-size: 22px;
+        font-weight: 700;
+        color: # 4a4a4a;
+        margin-bottom: 10px
+    }
+    .search-container> p {
+        color: # b3b3b3;
+        margin-bottom: 20px;
+        font-size: 14px;
+        font-style: normal
+    }
+    .search-container .search-item {
+        border-bottom: 1px solid #eaeaea;
+        padding-bottom: 30px;
+        margin-bottom: 30px
+    }
+    @media (largura máxima: 767px) {
+        .content-container .search-item {
+            padding: 0 0 30px 0
+        }
+    }
+    .content-search .search-item a {
+        text-decoration: none
+    }
+    .content-container .search-item a h4 {
+        tamanho da fonte: 16px;
+        peso da fonte: 700;
+        cor: # 4a4a4a;
+        margem inferior: 15px;
+        margem superior: 0;
+        decoração de texto: nenhuma! importante
+    }
+    .search-container .search-container .search-item a h4: passe o mouse {
+        color: # ef5350
+    }
+    .search-container .search-item a .list-group-item-text {
+        exibição: nenhuma
+    }
+    .search-container .search-item> div {
+        font-size: 14px
+    }
+    .header__breadcrumb {
+        background -color: # f7f7f7;
+        padding-top: 55px;
+        padding-bottom: 55px;
+        margin-bottom: 40px;
+        width: 100%
+    }
+    @ media (largura máxima: 767px) {
+        . header__breadcrumb {
+            padding: 30px 15px;
+            margin-bottom: 20px
+        }
+    }
+    . Header__breadcrumb .breadcrumb {
+        margin: auto;
+        tamanho da fonte: 0;
+        altura da linha: normal
+    }
+    .header__breadcrumb .breadcrumb li {
+        peso da fonte: 400;
+        altura da linha: normal;
+        tamanho da fonte: 16px
+    }
+    .header__breadcrumb .breadcrumb li a {
+        color: # 4a4a4a;
+        tamanho da fonte: 16px;
+        font- peso: 400
+    }
+    .header__breadcrumb .breadcrumb li: antes de {
+        content: "\ e914";
+        tamanho da fonte: 16 px;
+        padding: 0;
+        margin: 0 8px;
+        vertical-align: -2px;
+        color: # 5f5f5f
+    }
+    .header__breadcrumb .breadcrumb li: primeiro filho: antes de {
+        display: none
+    }
+    body.page__home .header__breadcrumb {
+        display: none
+    }
+    body.page__home rodapé .box__artigos {
+        display: block
+    }
+    @media (largura mínima: 768px) {
+        . col-sm-20 {
+            width: 20%;
+            float: left
+        }
+    }
+    cor: # 5f5f5f
+}
+
+.header__breadcrumb .breadcrumb li: primeiro filho: antes de {
+    exibir: nenhum
+}
+
+body.page__home .header__breadcrumb {
+    exibir: nenhum
+}
+
+body.page__home rodapé .box__artigos {
+    exibir: bloco
+}
+
+@media (largura mínima: 768px) {
+    . col-sm-20 {
+        width: 20%;
+        float: left
+    }
+}
+
+cor: # 5f5f5f
+}
+.header__breadcrumb .breadcrumb li: primeiro filho: antes de {
+    exibir: nenhum
+}
+body.page__home .header__breadcrumb {
+    exibir: nenhum
+}
+body.page__home rodapé .box__artigos {
+    exibir: bloco
+}
+@media (largura mínima: 768px) {
+    . col-sm-20 {
+        width: 20%;
+        float: left
+    }
+}
